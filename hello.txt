@@ -1,7 +1,10 @@
 Hello world !
 
-Nouvelle ligne
+Nouvelle ligne - Edition locale 1
 
 Seconde ligne
 
-Troisiem ligne
+Troisieme ligne
+
+Edition locale 2
+Edition locale 3
