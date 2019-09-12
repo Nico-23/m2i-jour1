@@ -8,5 +8,3 @@ Troisieme ligne
 
 Edition locale 2
 Edition locale 3
-
-C3bis
